@@ -2,7 +2,7 @@
 #'title: "Convert your R script to a renderable R script"
 #'author: "Jane Kathambi"
 #'date: "7 June 2018"
-#'output: html_document
+#'output: github_document
 #'---
 
 #+ r setup, include=FALSE
